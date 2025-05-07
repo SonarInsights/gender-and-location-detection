@@ -1,1 +1,7 @@
 streamlit
+joblib
+scikit-learn
+openpyxl
+xlsxwriter
+numpy
+pandas
